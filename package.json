@@ -1,0 +1,24 @@
+{
+  "name": "iris-data",
+  "version": "1.0.0",
+  "description": "Iris dataset SQL database",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kaohman/iris-data.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kaohman/iris-data/issues"
+  },
+  "homepage": "https://github.com/kaohman/iris-data#readme",
+  "dependencies": {
+    "knex": "^0.16.5",
+    "pg": "^7.10.0"
+  }
+}
