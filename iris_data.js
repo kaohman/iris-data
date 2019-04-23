@@ -1,4 +1,4 @@
-[
+const specimens = [
  {
    "sepal_length": 5.1,
    "sepal_width": 3.5,
@@ -1050,3 +1050,5 @@
    "species": "virginica"
  }
 ]
+
+module.exports = specimens;
